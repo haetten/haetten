@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @haetten
-- 👀 I’m interested in Java, GIS and BIM.
-- 🌱 I’m currently learning BIM implementations using IFC.
-- 💞️ I’m looking to collaborate on BIM solutions
+- 👀 I’m interested in Java/Springboot and React / React Native.
 - 📫 How to reach me: haetten@gmail.com
 
 <!---
